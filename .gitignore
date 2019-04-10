@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.DS_Store
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json

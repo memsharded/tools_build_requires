@@ -1,0 +1,5 @@
+[requires]
+CNEuropeanOcrModels/1.0.0@user/testing
+CNOcrEngine/1.0.0@user/testing
+
+CNCoreUtils/1.2.0@user/testing
